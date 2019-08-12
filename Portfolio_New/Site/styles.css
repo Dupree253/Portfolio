@@ -1,0 +1,64 @@
+body{
+    background-color: black;
+    color: rgba(255,255,255,0.8);
+    font-family: 'Jura', sans-serif;
+}
+
+#tech{
+    
+}
+
+#landing{
+    height: 100vh;
+    background-image: url('earth.png');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    z-index: -1;
+}
+
+#about{
+    line-height: 25px;
+}
+
+svg{
+    height: 10vh;
+}
+
+#css{
+    display: inline-block;
+    vertical-align: top;
+    height: 250px;
+}
+
+#mainText{
+    margin-top: 25vh;
+    font-size: 40px;
+    color: white;
+    /* text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white; */
+}
+
+#mainText2{
+    margin-top: 5vh;
+    color: white;
+    /* text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white; */
+}
+
+#name{
+    margin-top: 5vh;
+    color: white;
+    /* text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white; */
+}
+
+#intro{
+    margin-top: 50px;
+}
+
+#work{
+    background-color: rgb(61,61,61);
+}
+
+#p1{
+    height: 350px;
+}
